@@ -16,6 +16,9 @@ Your Keen.io project api values need to exist in the environment that this is ru
  CloudTrail logs contain numerous fields indicating what sort of event occurred and various aspects of it.
  Documentation for them can be found at [http://docs.aws.amazon.com/awscloudtrail/latest/userguide/event_reference_top_level.html](http://docs.aws.amazon.com/awscloudtrail/latest/userguide/event_reference_top_level.html)
  
+ Once data has been uploaded to your Keen project you can perform various queries on it using the workbench.
+ 
+ 
  
  
  
